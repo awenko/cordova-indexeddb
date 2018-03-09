@@ -3,10 +3,11 @@ cordova-indexeddb
 
 Cordova indexedDB plugin, uses the indexedDBShim from: https://github.com/axemclion/IndexedDBShim
 
+Original cordova-indexeddb plugin by DickvdBrink (https://github.com/DickvdBrink/cordova-indexeddb) but upgraded with package.json file.
 
 # How to install
 
-cordova plugin add https://github.com/DickvdBrink/cordova-indexeddb.git
+cordova plugin add https://github.com/awenko/cordova-indexeddb.git
 
 Wait for the cordova onDeviceReady event before using indexedDB.
 

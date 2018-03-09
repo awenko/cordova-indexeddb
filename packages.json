@@ -1,0 +1,33 @@
+{
+	name: "cordova-plugin-indexeddb-shim",
+	description: "Cordova indexedDB Plugin",
+	version: "0.1.1",
+	homepage: "https://github.com/awenko/cordova-indexeddb",
+	repository: {
+		type: "git",
+		url: "git+https://github.com/awenko/cordova-indexeddb.git"
+	},
+	bugs: {
+		url: "https://github.com/awenko/cordova-indexeddb/issues"
+	},
+	cordova: {
+		id: "cordova-plugin-indexeddb-shim",
+		platforms: [
+			"ios",
+            "android"
+		]
+	},
+	keywords: [
+		"phonegap",
+		"ecosystem:cordova",
+		"cordova-ios",
+		"indexedDB"
+	],
+	engines: [{
+			name: "cordova",
+			version: ">=3.0.0"
+		}
+	],
+	author: "awenko Team, (original author: Dick van den Brink)",
+	license: "Apache 2.0"
+}

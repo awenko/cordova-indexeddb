@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="com.dvdbrink.cordova.indexeddb" version="0.1.0">
-    <name>Cordova-indexedDB</name>
+        id="cordova-plugin-indexeddb-shim" version="0.1.1">
+    <name>cordova-plugin-indexeddb-shim</name>
     <description>Cordova indexedDB Plugin</description>
     <license>Apache 2.0</license>
     <author>Dick van den Brink</author>
     <keywords>cordova,indexeddb</keywords>
-    <repo>https://github.com/DickvdBrink/cordova-indexeddb.git</repo>
-    <issue>https://github.com/DickvdBrink/cordova-indexeddb/issues</issue>
+    <repo>https://github.com/awenko/cordova-indexeddb.git</repo>
+    <issue>https://github.com/awenko/cordova-indexeddb/issues</issue>
 
     <engines>
         <engine name="cordova-android" version=">=3.2.0" />
