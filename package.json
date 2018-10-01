@@ -1,7 +1,7 @@
 {
 	"name": "cordova-plugin-indexeddb-shim",
 	"description": "Cordova indexedDB Plugin",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"homepage": "https://github.com/awenko/cordova-indexeddb",
 	"repository": {
 		"type": "git",
